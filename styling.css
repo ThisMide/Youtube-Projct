@@ -16,6 +16,18 @@ aside {
   background-color: yellowgreen;
   display: flex;
   flex-direction: column;
-  width: 5vw;
+  width: 10vw;
   height: 100vh;
+}
+
+section {
+  background-color: cadetblue;
+  /* margin-left: 5vw; */
+  height: 100vh;
+  display: flex;
+}
+
+#tiles {
+  background-color: aqua;
+  display: flex;
 }
